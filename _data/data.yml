@@ -60,26 +60,23 @@ career-profile:
       paciencia, trabajo bien en equipo. Soy bueno en Empresariales gracias 
       a Enrique Perez.
 education:
-    title: Habilidades
+    title: Educacion
     info:
-    - item: Dormir
-    - item: Nacer
-    - item: Vivir
-    #- degree: MSc in Computer Science
-      #  university: University of London
-      #  time: 2011 - 2012
-      #  details: |
-       #   Describe your study here lorem ipsum dolor sit amet, consectetuer
-       #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-       #   sociis natoque penatibus et magnis dis parturient montes, nascetur
-        #  ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        #  pretium quis, sem.
-        #    - Bullet point
-        #    - Bullet point
-      #- degree: BSc in Applied Mathematics
-      #  university: Bristol University
-     #   time: 2007 - 2011
-     #   details: |
+       - degree: Estudiante Salvador Dali
+         university: CEIPSO SALVADOR DALI
+         time: 2009 - 2023
+         details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - degree: BSc in Applied Mathematics
+        university: Bristol University
+        time: 2007 - 2011
+        details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -88,12 +85,12 @@ education:
             - Bullet point
             - Bullet point
 experiences:
-    title: Experiences
+    title: Experiencia
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
+      - role: Camarero 
+        time: 2021-2022
+     #   company: Startup Hubs, San Francisco
+     #   details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           Cum sociis natoque penatibus et magnis dis parturient montes,
@@ -105,21 +102,15 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
+      - role: Instructor
+        time: 2021 - 2022
+        company: La Jota Indoor
+        details: 
+          Entrenador de niños
+     # - role: UI Developer
+     #   time: 2012 - 2014
+     #   company: Amazon, London
+     #   details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           Cum sociis natoque penatibus et magnis dis parturient montes,
